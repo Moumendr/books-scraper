@@ -28,3 +28,7 @@ pip install -r requirements.txt
 Run the script:
 
 python main.py
+
+## Example Output
+
+![Scraper Result](output_example.png)
